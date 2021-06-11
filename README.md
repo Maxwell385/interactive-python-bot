@@ -1,2 +1,2 @@
 # interactive-python-bot
-A biginer to python code dev. pro.
+A biginner to python code dev. pro.
